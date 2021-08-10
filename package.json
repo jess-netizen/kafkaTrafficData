@@ -1,0 +1,24 @@
+{
+  "name": "kafkatrafficdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jess-netizen/kafkaTrafficData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jess-netizen/kafkaTrafficData/issues"
+  },
+  "homepage": "https://github.com/jess-netizen/kafkaTrafficData#readme",
+  "dependencies": {
+    "kafka-penguin": "^0.3.8",
+    "kafkajs": "^1.15.0",
+    "websockets": "^0.2.0"
+  }
+}
